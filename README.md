@@ -231,3 +231,5 @@ else:
 
 <img width="808" height="480" alt="image" src="https://github.com/user-attachments/assets/cd00707e-2329-4973-9510-e5e441e32503" />
 
+# RESULT
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
